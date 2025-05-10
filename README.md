@@ -1,7 +1,7 @@
 # AI for Laser Aberration Correction
 
 <p align="center">
-  <img src="Assets/voxel.png" alt="Voxel Lab Project" width="600"/>
+  <img src="Assets/voxel.png" alt="Voxel Lab Project" width="400"/>
 </p>
 
 
