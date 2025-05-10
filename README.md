@@ -1,8 +1,9 @@
+# AI for Laser Aberration Correction
+
 <p align="center">
   <img src="Assets/voxel.png" alt="Voxel Lab Project" width="200"/>
 </p>
 
-# AI for Laser Aberration Correction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
